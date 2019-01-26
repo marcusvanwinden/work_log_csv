@@ -3,7 +3,7 @@
 ### Installation
 
 1. Download the project
-2. Open terminal and change directory to the project folder
+2. Open the terminal and change directory to the project folder
 3. Type "python3 app.py"
 
 ### Description
