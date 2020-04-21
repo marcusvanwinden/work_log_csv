@@ -6,14 +6,14 @@
 <table>
   <tr>
     <th>Main Menu</th>
-    <th>Add Entry</th>
+    <th>Add New Entry</th>
   </tr>
   <tr>
     <td><img src="assets/main_menu.png" width=500></td>
     <td><img src="assets/add_entry.png" width=500></td>
   </tr>
   <tr>
-    <th>View Entries</th>
+    <th>View Existing Entries</th>
     <th>Results</th>
   </tr>
   <tr>
