@@ -2,8 +2,8 @@
 
 <h2>Table of Contents</h2>
 <ol>
-  <li><a href="#description">Description</a></l1>
-  <l1><a href="#installation">Installation</a></l1>
+  <li><a href="#description">Description</a></li>
+  <li><a href="#installation">Installation</a></li>
 </ol>
 
 <h2 id="description">1. Description</h2>
