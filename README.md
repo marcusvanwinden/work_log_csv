@@ -7,7 +7,7 @@
 </ol>
 
 <h2 id="description">1. Description</h2>
-<p>To prepare better timesheets for a company, I developed a terminal application for logging what work someone did on a certain day. The script asks for a task name, how much time was spent on the task, and any general notes about the task. The program records each of these items into a row of a CSV file along with a date. I also provided a way for a user to find all of the tasks that were done on a certain date or that match a search string.</p>
+<p>I developed a terminal application to prepare better work timesheets. The program asks for a date, task name, time spent on the task, and optional notes. Each task gets added to the CSV file. Users can also view, edit, and delete previously added entries.</p>
 
 <table>
   <tr>
