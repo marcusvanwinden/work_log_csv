@@ -36,7 +36,7 @@
 
 <h2 id="installation">2. Installation</h2>
 ```
-git clone "https://github.com/marcusvanwinden/work_log_csv.git"
+git clone 
 cd work_log_csv
 python3 app.py
 ```
